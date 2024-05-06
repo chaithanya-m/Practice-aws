@@ -70,3 +70,15 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+
+
+gem "capistrano"
+
+gem "capistrano-rails"
+
+gem "capistrano-bundler"
+
+gem "capistrano-rbenv"
+
+gem "capistrano3-puma"
